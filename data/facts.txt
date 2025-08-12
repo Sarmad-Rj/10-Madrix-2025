@@ -1,0 +1,3 @@
+Sarmad Rj is studying at COMSATS University in Pakistan.
+Sarmad Rj is skilled in Python, Java, and web development.
+Sarmad Rj created a school management system using Java Swing and Oracle SQL.
