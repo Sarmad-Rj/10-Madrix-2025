@@ -1,6 +1,6 @@
 import streamlit as st
-from rag import build_index, retrieve
-from model import load_model
+from tinyLlama.rag import build_index, retrieve
+from tinyLlama.model import load_model
 
 st.title("Sarmad Rj - Personal Chatbot")
 

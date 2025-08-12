@@ -1,0 +1,2 @@
+Sarmad Rj is skilled in Python, Java, and web development.
+He has experience with Oracle SQL, Streamlit, Java Swing, and SendGrid.
