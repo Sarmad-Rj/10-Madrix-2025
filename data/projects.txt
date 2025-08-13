@@ -1,2 +1,2 @@
-Sarmad Rj created a school management system using Java Swing and Oracle SQL.
+Sarmad created a school management system using Java Swing and Oracle SQL.
 He made a crypto-to-currency converter using Python and Streamlit.
