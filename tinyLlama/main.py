@@ -3,29 +3,17 @@ from model import load_model
 
 def rag_answer(query, docs, embedder, index, generator):
     context = retrieve(query, docs, embedder, index, k=1)[0]
+    prompt = f"""You are an assistant on Sarmad Rj's portfolio site.
+    Always answer in third person about Sarmad Rj.
+    Only answer the question concisely based on the given context.
+    Do not explain your reasoning or repeat the question.
 
-    system_instructions = (
-        "You are Madrix, the official assistant for Sarmad Rj's portfolio site.\n"
-        "Always speak in third person about Sarmad Rj.\n"
-        "Only use the provided context to answer in one short sentence.\n"
-    )
+    Context: {context}
+    Question: {query}
+    Answer:"""
 
-    prompt = f"""{system_instructions}
-Context: {context}
-Question: {query}
-Answer:"""
-
-    # Generate a bit more text than needed
-    result = generator(prompt, max_new_tokens=50)[0]['generated_text']
-
-    # Get only the part after "Answer:" and stop if "Question:" appears
-    answer = result.split("Answer:")[-1].strip()
-    if "Question:" in answer:
-        answer = answer.split("Question:")[0].strip()
-
-    return answer
-
-
+    result = generator(prompt)[0]['generated_text']
+    return result.split("Answer:")[-1].strip()
 
 def main():
     docs = [
