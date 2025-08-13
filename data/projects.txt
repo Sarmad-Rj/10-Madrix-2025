@@ -1,2 +1,165 @@
-Sarmad created a school management system using Java Swing and Oracle SQL.
-He made a crypto-to-currency converter using Python and Streamlit.
+=== SUMMARY OF MAIN PROJECTS ===
+- School Management System (Complete software with multi-role dashboards, fee/salary/attendance management, Oracle SQL database, and Java Swing GUI)
+- Airplane Record System (Full database project in Microsoft SQL Server for managing flights, passengers, and airports)
+- Madrix Chatbot (AI-based chatbot for personalized Q&A trained on custom data)
+- C2C Converter (Python + Streamlit cryptocurrency-to-currency converter with extra features like games and internet check)
+- Firearm Detection & Alert System (Real-time firearm detection with siren alarm and email alerts)
+- Web Apps using Ionic + Angular + Typescript (Mobile/web hybrid apps with device hardware access and push notifications)
+
+=== WEB DEVELOPMENT PROJECTS ===
+
+1. Bakery Website
+Description: A responsive website for a bakery, showcasing products and contact information.
+Technologies Used: HTML, CSS, Bootstrap
+Key Features:
+- Fully responsive design
+- Product showcase
+- Contact page
+GitHub Repo: [Add link here]
+
+2. Education Website
+Description: A modern education-themed website with information about courses and admission.
+Technologies Used: HTML, CSS, Bootstrap
+Key Features:
+- Informative pages for courses
+- Responsive design
+GitHub Repo: [Add link here]
+
+3. Blog Website
+Description: A blog layout for posting articles with images and categories.
+Technologies Used: HTML, CSS, Bootstrap
+Key Features:
+- Blog post listing
+- Responsive design
+GitHub Repo: [Add link here]
+
+4. Multiple Mini Frontend Projects
+Description: Small UI-focused projects created during early learning stages.
+Technologies Used: HTML, CSS, Bootstrap
+Key Features:
+- Google Sign-Up Page replica
+- Animated moving car
+- Multiple other UI practice projects
+GitHub Repo: [Add link here]
+
+5. Web Apps using Ionic + Angular + Firebase
+Description: Mobile/web hybrid apps built using Ionic and Angular with Typescript backend.
+Technologies Used: Ionic, Angular, Typescript, Capacitor, Node.js, Firebase, Android Studio
+Key Features:
+- Push notifications via Firebase
+- Accessing device hardware (camera, mic) via Capacitor
+- CRUD operations and API handling
+GitHub Repo: [Add link here]
+
+
+=== JAVA PROJECTS ===
+
+1. School Management System
+Description: A complete school management system with database integration.
+Technologies Used: Core Java, Java Swing, Oracle SQL
+Key Features:
+- Principle, Vise principal and teachers dashboard, manage fees, salary, attendance of all the students and teachers,
+- CRUD operations for records
+- GUI with Swing components
+GitHub Repo: [Add link here]
+
+
+3. 10 Java Mini Projects
+Description: Collection of small Java applications to practice programming concepts.
+Technologies Used: Core Java, Java Swing, MongoDB Atlas (for password manager), Networking (for chat app), Weather API, Wix Toolset for building software
+Key Features:
+- Calculator
+- Paint application
+- Rock Paper Scissors game
+- To-do list
+- Tic Tac Toe
+- Password generator (with MongoDB Atlas integration)
+- Morse code translator
+- Weather app (using Weather API)
+- Hangman game
+- Chat app (Java networking)
+GitHub Repo: [Add link here]
+
+
+=== PYTHON PROJECTS ===
+
+1. CGPA Calculator
+Description: A tool to calculate CGPA based on GPA of each semester.
+Technologies Used: Core Python
+Key Features:
+- User input for grades and credits
+- Calculates CGPA
+GitHub Repo: [Add link here]
+
+2. YouTube Manager
+Description: A tool for managing YouTube watch later data using file operations.
+Technologies Used: Python, File I/O
+Key Features:
+- Save and manage video links
+GitHub Repo: [Add link here]
+
+3. Password Generator
+Description: Generates secure passwords and stores them in a database.
+Technologies Used: Python, SQLite3
+Key Features:
+- Random password generation
+- Store and retrieve passwords
+GitHub Repo: [Add link here]
+
+4. Contact Book
+Description: A MongoDB-based contact management system.
+Technologies Used: Python, MongoDB
+Key Features:
+- Add, view, update, delete contacts
+GitHub Repo: [Add link here]
+
+
+=== AI / ML PROJECTS ===
+
+1. C2C Converter
+Description: A mini web app that converts cryptocurrency prices to local currencies and supports currency-to-currency conversion.
+Technologies Used: Python, Streamlit, BeautifulSoup, PIL
+Key Features:
+- Coin to Currency conversion
+- Currency to Currency conversion
+- Mini number guessing game
+- Internet connection check
+- Dynamic sidebar navigation
+GitHub Repo: [Add link here]
+
+2. Firearm Detection & Alert System
+Description: Detects firearms in real-time and alerts the owner via email with attached image and timestamp; plays a siren alarm.
+Technologies Used: [Add model details later]
+Key Features:
+- Real-time firearm detection
+- Email alert with image attachment and timestamp
+- Siren alarm activation
+GitHub Repo: [Add link here]
+
+3. AI Caption & Post Suggestion Tool
+Description: Takes an image, generates a title, and suggests a caption for posting.
+Technologies Used: [Add model details later]
+Key Features:
+- Image-to-text processing
+- Caption generation
+GitHub Repo: [Add link here]
+
+4. Video Content Summarizer
+Description: Takes a video, generates a summary, and lists topics covered using multiple LLM models.
+Technologies Used: [Add model details later]
+Key Features:
+- Video-to-text transcription
+- Summary generation
+- Topic extraction
+GitHub Repo: [Add link here]
+
+=== Database project ===
+1. School Management System (see Java Projects)
+
+2. Airplane Record System
+Description: Database system to manage flights, passengers, and airport records.
+Technologies Used: Microsoft SQL Server, SQL
+Key Features:
+- Full CRUD operations
+- Query execution for data retrieval
+GitHub Repo: [Add link here]

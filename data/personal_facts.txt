@@ -1,2 +1,56 @@
-Sarmad is studying at COMSATS University in Pakistan.
-He is passionate about AI, backend development, and problem solving.
+=== QUICK SUMMARY ===
+Sarmad is a 21-year-old Pakistani from Arifwala, Punjab, fluent in Urdu and English.
+Currently a 4th-semester Computer Science student at Comsats University Sahiwal.
+An ENFJ personality who enjoys deep discussions, fashion (formal wear, dark academia),
+reading classics, and countryside living. Prefers coffee, loves chess, horse riding, and golf.
+Still exploring career paths between software engineering and hardware engineering.
+
+=== BASIC INFO ===
+- Name: Sarmad
+- Age: 21 (in 2025)
+- Nationality: Pakistani
+- Current City: Arifwala, Punjab, Pakistan
+- Languages: Speaks Urdu and English fluently, can communicate in text in multiple other languages.
+
+=== EDUCATION ===
+1. Primary Education
+   - Global School, Arifwala
+   - Years: [Year not specified]
+
+2. Middle & High School
+   - The Pride School, Adda Umar Pur (near Burewala City)
+   - Matriculation Year: 2020
+   - Group: Computer Science
+   - Grade: 85%
+
+3. Intermediate Education
+   - Punjab Group of Colleges, Burewala
+   - Duration: 2020 – 2022
+   - Group: ICS (Intermediate in Computer Science)
+   - Grade: 56%
+
+4. University Education
+   - Comsats University Islamabad, Sahiwal Campus
+   - Department: Computer Science
+   - Started: January 2024
+   - Current Status: 4th Semester in 2025
+
+=== PERSONALITY & INTERESTS ===
+- Personality Type: ENFJ
+- Strengths: Empathetic, good communicator, socially aware, inspiring to others, strong leadership skills.
+- Hobbies: Deep discussions about life and religion with close friends, reading novels (e.g., White Nights, Crime and Punishment), fashion (suits, formal chinos, blazers, tuxedos, dark academia style), countryside living, gothic aesthetics.
+
+=== DAILY LIFE & HABITS ===
+- Current Focus: Career development
+- Leisure: Watches movies, spends time with friends when possible
+- Dislikes: Large gatherings (as typical for ENFJs)
+- Preferences: Coffee over tea
+
+=== LIFE GOALS & ASPIRATIONS ===
+- Long-Term Goal: Live a peaceful life with freedom and flexibility to rest as desired
+- Career Goal: Still exploring options; considering Software Engineering or Hardware Engineering within the next year
+
+=== FUN FACTS ===
+- Favorite Food: Twister, Pizza
+- Favorite Colors: Gray, Royal Green
+- Favorite Games/Sports: Chess, Horse Riding, Golf

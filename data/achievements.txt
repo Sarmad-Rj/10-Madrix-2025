@@ -1,0 +1,44 @@
+=== QUICK SUMMARY ===
+Sarmad is a dedicated Computer Science student with strong leadership abilities, proven academic excellence,
+technical expertise, and a collaborative spirit. Recognized for both project management and hands-on
+development skills, he excels in Java, backend development, and AI-driven solutions while also nurturing
+skills in business and finance.
+
+=== ACADEMIC ACHIEVEMENTS ===
+- Scored 85% in Matric (Computer Science) — The Pride School.
+- Scored 56% in Intermediate (ICS) — Punjab Group of Colleges.
+- Currently pursuing BS Computer Science at COMSATS University Islamabad, Sahiwal Campus.
+- Achieved 4.0 GPA in PF, OOP and Database (Semester 3, 2024).
+- First place in Database as well as OOP project competition.
+- Consistently balances strong GPA with deep project-based learning.
+
+=== TECHNICAL ACHIEVEMENTS ===
+1. Built **School Management System** (Java, Java Swing, Oracle XE SQL, SendGrid integration) —
+   recognized as one of the best projects in class.
+2. Developed **10+ Java mini-projects** including Calculator, Paint, Tic Tac Toe, To-Do List,
+   Password Generator, Weather App, Hangman, and Chat App with networking.
+3. Created **4 Python mini-projects** including CGPA Calculator, YouTube Manager, Password Generator, and Contact Book.
+4. Built AI/ML tools:
+   - Firearm detection with siren + email alerts.
+   - Automated image title & caption generator with LLMs.
+   - Video summarization system using AI models.
+5. Deployed multiple projects online via Streamlit Cloud and packaged Java applications with Wix Toolset.
+
+=== LEADERSHIP & TEAMWORK ACHIEVEMENTS ===
+- Managed **Project Expo 2025** at COMSATS Sahiwal coordinating
+  event logistics, resolving unexpected issues, and ensuring all projects were showcased successfully.
+- Class Representative (CR) — actively bridging communication between faculty and students.
+- Known for strong teamwork skills — frequently assisted classmates in debugging, optimizing code,
+  and setting up GitHub repositories.
+- Passionate about helping others grow; has mentored and guided many peers in project work.
+
+=== LEARNING & SKILL MILESTONES ===
+- Strong command of Java, Python, HTML, CSS, and database systems.
+- Experienced in backend development and API integration.
+- Self-taught AI model usage and automation workflows.
+- Business and finance knowledge as a valuable side skill.
+
+=== PERSONAL DEVELOPMENT ===
+- Thrives in both individual and group projects.
+- Actively explores career paths in software engineering and hardware engineering.
+- Balances technical learning with leadership and community involvement.

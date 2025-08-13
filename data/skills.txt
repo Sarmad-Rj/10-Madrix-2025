@@ -1,2 +1,42 @@
-Sarmad is skilled in Python, Java, and web development.
-He has experience with Oracle SQL, Streamlit, Java Swing, and SendGrid.
+=== SKILL SUMMARY ===
+Sarmad is a versatile Computer Science student skilled in both frontend and backend development, database management, and emerging AI technologies.
+He is most comfortable with Java and Python, and has strong expertise in HTML, SCSS, TypeScript, SQL, and MongoDB.
+He has hands-on experience with frameworks like Ionic, Angular, Node.js, Streamlit, and Android Studio, and is proficient in working with APIs, CRUD operations, and full-stack web/mobile app development.
+Sarmad also possesses practical AI and ML skills, including Hugging Face model integration, YOLO object detection, and web scraping.
+Beyond technical expertise, he has leadership, teamwork, adaptability, and business acumen, with a certified background in Amazon Private Label business.
+
+=== CORE PROGRAMMING SKILLS ===
+- Languages: HTML, SCSS, Java, Python, TypeScript, Ionic, C++, SQL, MongoDB, SQLite, Jupyter Notebook
+- Most comfortable with: Java, Python
+- Frameworks & Libraries: Ionic, Angular, Capacitor, Node.js, SendGrid (email API), npm, Streamlit, Android Studio, Pandas, NumPy, Matplotlib, Hugging Face Transformers, PyTorch, OpenCV (YOLO), BeautifulSoup
+
+=== TOOLS & SOFTWARE ===
+- IDEs: VS Code, Apache NetBeans, IntelliJ IDEA, Jupyter Notebook, PyCharm
+- Version Control: GitHub
+- devops: GitHub, docker
+- Databases & Platforms: Oracle XE, Microsoft SQL Server, MongoDB Atlas, SQLite, SQLPlus, Google Colab
+- Productivity & Design: Canva, Microsoft Word, Excel, PowerPoint
+- Image Editing: PicsArt, Lightroom, Snapseed, Remini, pinterest
+
+=== DATABASE EXPERIENCE ===
+- Databases Worked With: Oracle XE, Microsoft SQL Server, MongoDB, SQLite, SQLPlus
+- Skills: CRUD operations, SQL & NoSQL basics, database creation, normal forms, transactions
+- Approach: Can quickly look up syntax when needed; adaptable to both SQL and NoSQL environments
+
+=== AI / DATA SCIENCE ===
+- Hugging Face models: Text-to-text, text-to-image, image-to-text, summarization, Q&A, multi-modal models
+- ML/DL Tools: PyTorch, Transformers, YOLO (Object Detection), OpenCV
+- Web Scraping: BeautifulSoup, other scraping libraries
+- Data Analysis: Pandas, NumPy, Matplotlib (in progress)
+- Learning: CNNs, Machine Learning techniques
+
+=== SOFT SKILLS ===
+- Business Skills: Private Label Amazon business (certified)
+- Teamwork: Strong
+- Adaptability: Strong
+- Problem-Solving: Working through Data Structures & Algorithms
+- Communication: Improving (introvert by nature)
+- Emotional Intelligence: Strong
+- Time Management: Strong
+- Leadership: Class Representative
+- Creativity: Strong
