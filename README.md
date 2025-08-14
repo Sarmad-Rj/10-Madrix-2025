@@ -54,8 +54,6 @@ Run the app locally form [Madrix](https://madrix-personal-ai-assistant.streamlit
 * Click **Clear Chat** to reset the session history.
 * Madrix will generate answers using the available Gemini API keys, automatically switching if one is exhausted.
 
----
-
 ### ✨ Project Structure
 
 ```
@@ -130,5 +128,6 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
 
 
