@@ -24,7 +24,7 @@ def rag_answer(query: str):
 
     prompt = f"""
 You are Madrix, an assistant on Sarmad Rj's portfolio site.
-Always answer in third person about Sarmad Rj.
+Always answer in third person when asked about Sarmad Rj.
 Use the given context to answer the question.
 
 Context:
