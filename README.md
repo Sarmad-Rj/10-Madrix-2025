@@ -31,12 +31,21 @@ You can see a live demo of Madrix on Streamlit [here](https://madrix-personal-ai
 <details>
 <summary>💬 Chat Screenshots (click to expand)</summary>
 
-<p>
-  <img src="Screen-Shots/1.png" width="30%" alt="Chat Screenshot 1">
-  <img src="Screen-Shots/2.png" width="30%" alt="Chat Screenshot 1">
-  <img src="Screen-Shots/3.png" width="30%" alt="Chat Screenshot 1">
-  <img src="Screen-Shots/4.png" width="30%" alt="Chat Screenshot 1">
-  <img src="Screen-Shots/5.png" width="30%" alt="Chat Screenshot 1">
+ > Starting Look
+<p align="center">
+  <img src="Screen-Shots/1.png" width="70%" alt="Chat Screenshot 1">
+</p>
+
+> In Rude Mode
+<p align="center">
+  <img src="Screen-Shots/2.png" width="70%" alt="Chat Screenshot 1">
+  <img src="Screen-Shots/3.png" width="70%" alt="Chat Screenshot 1">
+  <img src="Screen-Shots/4.png" width="70%" alt="Chat Screenshot 1">
+</p>
+
+> when keys reaches their daily limit
+<p align="center">
+  <img src="Screen-Shots/5.png" width="70%" alt="Chat Screenshot 1">
 </p>
 
 </details>
@@ -126,6 +135,7 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
 
 
 
