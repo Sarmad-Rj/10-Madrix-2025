@@ -11,7 +11,8 @@ if not GEMINI_API_KEY:
 genai.configure(api_key=GEMINI_API_KEY)
 
 # 2. MODEL SETTINGS
-MODEL_NAME = "gemini-2.0-flash-exp"
+# MODEL_NAME = "gemini-2.0-flash-exp"
+MODEL_NAME = "gemini-1.5-flash"
 
 # 3. EMBEDDING SETTINGS
 EMBEDDER_MODEL = "all-MiniLM-L6-v2"
