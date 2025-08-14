@@ -47,7 +47,7 @@ You can see a live demo of Madrix on Streamlit [here](https://madrix-personal-ai
 
 ### ✨ Usage
 
-Run the app locally form [here](https://madrix-personal-ai-assistant.streamlit.app/).
+Run the app locally form [Madrix](https://madrix-personal-ai-assistant.streamlit.app/).
 
 * Enter your query in the chat input box.
 * Select the **mood** from the sidebar.
@@ -62,16 +62,28 @@ Run the app locally form [here](https://madrix-personal-ai-assistant.streamlit.a
 madrix/
 │
 ├─ ui/
-│   └─ ui.py               # Streamlit app
+│   └─ ui.py                 # Streamlit app
 │
 ├─ core/
-│   ├─ madrix.py           # Main RAG logic, API key rotation
-│   ├─ config.py           # Model & API configurations
-│   └─ prompt_templates.py # Prompt builder for Gemini AI
+│   ├─ config.py              # Model & API configurations
+│   ├─ madrix.py              # Main RAG logic, API key rotation
+│   ├─ prepare_index.py       # Builds FAISS index from data
+│   └─ prompt_templates.py    # Prompt builder for Gemini AI for moods
 │
 ├─ data/
-│   ├─ embeddings/         # FAISS index & docs pickle
+│   ├─ achievements.txt    
+│   ├─ personal_facts.txt  
+│   ├─ projects.txt       
+│   └─ skills.txt         
 │
+├─ embeddings/
+│   ├─ docs_list.pkl   
+│   └─ faiss_index.bin    
+│
+├─ logo/
+│   └─ logo.png               # App logo
+│
+├─ README.md
 └─ requirements.txt
 ```
 
@@ -118,4 +130,5 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
 
