@@ -10,7 +10,8 @@
 
 **Madrix** is a personalized AI assistant trained on **Sarmad Rj’s projects, skills, and achievements**.  
 It uses **RAG (Retrieval-Augmented Generation)** with **Gemini AI**, providing **context-aware intelligent answers** in a sleek chat interface.  
-**Fun Fact:** If You wonder why an AI assistant is named MADRIX or what is the mean of it, well, MAD is taken from SARMAD and RIX is taken form MATRIX.
+**Fun Fact:** If You wonder why an AI assistant is named MADRIX or what is the mean of it, well, MAD is taken from SARMAD and RIX is taken form MATRIX 🤷🏻‍♂
+.
 
 ### ✨ Features
 
@@ -140,6 +141,7 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
 
 
 
