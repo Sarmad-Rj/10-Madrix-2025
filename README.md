@@ -10,16 +10,17 @@
 
 **Madrix** is a personalized AI assistant trained on **Sarmad Rj’s projects, skills, and achievements**.  
 It uses **RAG (Retrieval-Augmented Generation)** with **Gemini AI**, providing **context-aware intelligent answers** in a sleek chat interface.  
+**Fun Fact:** If You wonder why an AI assistant is named MADRIX or what is the mean of it, well, MAD is taken from SARMAD and RIX is taken form MATRIX.
 
 ### ✨ Features
 
-🔹 Conversational AI trained on your projects, skills, and achievements
-🔹 **Context-aware responses** using RAG with a document index
-🔹 **Mood selection:** Friendly or Rude responses
-🔹 **Smart API key rotation:** Automatically switches Gemini API keys if quota is exceeded
-🔹 **Dark mode & light mode friendly** chat interface
-🔹 **Persistent chat history** during a session
-🔹 Streamlined **Streamlit UI** for easy usage
+*  Conversational AI trained on Sarmad's projects, skills, and achievements
+*  **Context-aware responses** using RAG with a document index
+*  **Mood selection:** Friendly or Rude responses
+*  **Smart API key rotation:** Automatically switches Gemini API keys if quota is exceeded
+*  **Dark mode & light mode friendly** chat interface
+*  **Persistent chat history** during a session
+*  Streamlined **Streamlit UI** for easy usage
 
 ### ✨ Demo
 
@@ -27,7 +28,21 @@ You can see a live demo of Madrix on Streamlit [here](https://madrix-personal-ai
 
 ### ✨ Screenshots
 
-![Chat Screenshot](logo/chat_screenshot.png) *(replace with your screenshot path)*
+<details>
+<summary>💬 Chat Screenshots (click to expand)</summary>
+
+<p align="center">
+  <img src="logo/chat_screenshot1.png" width="400" alt="Chat Screenshot 1">
+</p>
+<p align="center">
+  <img src="logo/chat_screenshot2.png" width="400" alt="Chat Screenshot 2">
+</p>
+<p align="center">
+  <img src="logo/chat_screenshot3.png" width="400" alt="Chat Screenshot 3">
+</p>
+
+</details>
+
 
 
 ### ✨ Usage
@@ -103,3 +118,4 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
