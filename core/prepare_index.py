@@ -1,7 +1,7 @@
 import pickle
 import faiss
 from sentence_transformers import SentenceTransformer
-from config import EMBEDDER_MODEL, INDEX_PATH, DOCS_PATH
+from core.config import EMBEDDER_MODEL, INDEX_PATH, DOCS_PATH
 
 # Load embedding model
 embedder = SentenceTransformer(EMBEDDER_MODEL)
