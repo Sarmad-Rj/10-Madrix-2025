@@ -32,13 +32,19 @@ You can see a live demo of Madrix on Streamlit [here](https://madrix-personal-ai
 <summary>💬 Chat Screenshots (click to expand)</summary>
 
 <p align="center">
-  <img src="logo/chat_screenshot1.png" width="400" alt="Chat Screenshot 1">
+  <img src="Screen-Shots/1.png" width="30%" alt="Chat Screenshot 1">
 </p>
 <p align="center">
-  <img src="logo/chat_screenshot2.png" width="400" alt="Chat Screenshot 2">
+  <img src="Screen-Shots/2.png" width="30%" alt="Chat Screenshot 1">
 </p>
 <p align="center">
-  <img src="logo/chat_screenshot3.png" width="400" alt="Chat Screenshot 3">
+  <img src="Screen-Shots/3.png" width="30%" alt="Chat Screenshot 1">
+</p>
+<p align="center">
+  <img src="Screen-Shots/4.png" width="30%" alt="Chat Screenshot 1">
+</p>
+<p align="center">
+  <img src="Screen-Shots/5.png" width="30%" alt="Chat Screenshot 1">
 </p>
 
 </details>
@@ -128,6 +134,7 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
 
 
 
