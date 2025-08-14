@@ -48,6 +48,11 @@ You can see a live demo of Madrix on Streamlit [here](https://madrix-personal-ai
   <img src="Screen-Shots/5.png" width="70%" alt="Chat Screenshot 1">
 </p>
 
+> Dark Mode
+<p align="center">
+  <img src="Screen-Shots/6.png" width="70%" alt="Chat Screenshot 1">
+</p>
+
 </details>
 
 
@@ -135,6 +140,7 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
 
 
 
