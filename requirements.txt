@@ -3,3 +3,5 @@ sentence-transformers
 transformers
 accelerate
 streamlit
+google-generativeai
+Pillow
