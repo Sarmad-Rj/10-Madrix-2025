@@ -33,17 +33,9 @@ You can see a live demo of Madrix on Streamlit [here](https://madrix-personal-ai
 
 <p>
   <img src="Screen-Shots/1.png" width="30%" alt="Chat Screenshot 1">
-</p>
-<p>
   <img src="Screen-Shots/2.png" width="30%" alt="Chat Screenshot 1">
-</p>
-<p>
   <img src="Screen-Shots/3.png" width="30%" alt="Chat Screenshot 1">
-</p>
-<p>
   <img src="Screen-Shots/4.png" width="30%" alt="Chat Screenshot 1">
-</p>
-<p>
   <img src="Screen-Shots/5.png" width="30%" alt="Chat Screenshot 1">
 </p>
 
@@ -134,6 +126,7 @@ Contributions are welcome! You can:
 ## License
 
 MIT License © 2025 Sarmad Rj
+
 
 
 
